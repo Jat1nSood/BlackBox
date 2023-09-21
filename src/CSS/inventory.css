@@ -1,0 +1,9 @@
+.inventory{
+ 
+    width: 60%;
+    padding : 0px 10pxpx 0px 10px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

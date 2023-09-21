@@ -1,0 +1,14 @@
+.navbar{
+    padding: 20px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navLogo{
+    color: rgb(28, 23, 108);
+    font-size: 35px;
+    text-decoration: none;
+
+}
+
